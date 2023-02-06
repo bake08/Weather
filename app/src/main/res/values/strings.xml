@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="top_st">Погода в вашем городе</string>
+    <string name="hint">Выбырите город</string>
+    <string name="buttonText">Посмотреть</string>
+    <string name="for_empty_input">Выбырите город, пожалуйста!</string>
+</resources>
